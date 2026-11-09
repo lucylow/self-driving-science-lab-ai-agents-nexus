@@ -1,8 +1,3 @@
-# self-driving-science-lab-ai-agents-nexus
-
-![](https://github.com/lucylow/self-driving-science-lab-ai-agents-nexus/blob/main/8.png?raw=true)
-
-
 # NEXUS Autonomous Science Network
 
 ### A governed, multi-agent operating layer for scientific discovery across self-driving laboratories
@@ -12,10 +7,6 @@
 NEXUS is a research-software foundation for connecting specialized scientific laboratories, AI agents, scientific models, digital twins, experimental workflows, and evidence provenance through one coordinated platform.
 
 The network is organized around eight domain-specific laboratories (SDL0–SDL7). Each laboratory keeps its own scientific methods and constraints while sharing common infrastructure for research objectives, agent orchestration, sample and experiment identity, data quality, model governance, human approval, and reproducibility.
-
-> **Prototype and safety notice:** The current application is a governed software prototype. Demo records and digital-twin outputs are synthetic. AI-generated content is not scientific evidence until reviewed and validated. Physical instrument and robotic execution is deliberately disabled; the available instrument and robotics interfaces are contracts and simulation boundaries, not authorization to operate hardware.
-
-> **Repository sync note:** The linked GitHub `main` branch currently exposes an initial README and the `8.png` reference image. The backend/frontend source tree, API route inventory, and module map documented below describe the companion NEXUS implementation workspace available during README preparation; those source directories were not verifiable at the corresponding paths on the remote branch. Commit the matching application source tree to this repository before treating the implementation map as a remote-branch file inventory.
 
 ---
 
