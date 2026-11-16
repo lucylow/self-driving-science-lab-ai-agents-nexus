@@ -2,6 +2,8 @@
 
 ### A governed, multi-agent operating layer for scientific discovery across self-driving laboratories
 
+![](https://github.com/lucylow/self-driving-science-lab-ai-agents-nexus/blob/main/NEXUS%20Autonomous%20Science%20Network.png?raw=true)
+
 ![NEXUS reference visual](./8.png)
 
 NEXUS is a research-software foundation for connecting specialized scientific laboratories, AI agents, scientific models, digital twins, experimental workflows, and evidence provenance through one coordinated platform.
